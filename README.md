@@ -1,3 +1,7 @@
+
+# Forked from https://github.com/josephlee94/intuitive-deep-learning.
+
+
 # Intuitive Deep Learning
 
 A beginner-friendly tutorial to introduce Deep Learning concepts in an intuitive way!
